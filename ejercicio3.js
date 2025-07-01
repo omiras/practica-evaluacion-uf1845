@@ -21,7 +21,7 @@ const encontrado = numeros.find(n => n > 10);
 
 /**
  * 
- * - El código define una función
+ * - El código usa un método de array
  * - Cosa 2
  * - Cosa 3
  * 
