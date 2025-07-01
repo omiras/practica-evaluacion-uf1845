@@ -7,8 +7,7 @@ Disponemos de una base de datos de presonas, representada por objetos donde cada
 Implementa la función `getPersonByIdCard` que reciba un DNI como argumento, busca la persona correspondiente en el array, y devuelva el nombre si existe. Si no se encuentra ninguna persona con ese DNI, debe devolver un string vacío ("").
 
 
-💡 Pistas
-- Piensa que método de array te permite buscar un elemento en concreto dentro del array
+💡 Piensa que método de array te permite buscar un elemento en concreto dentro del array
 
 ### Evaluación
 
@@ -33,8 +32,7 @@ const candidate = [
 console.log(filterProgrammingLanguages(candidate, 3)); // ["JavaScript", "Java"]
 ```
 
-💡 Pistas
-- Es un ejercicio complejo. Debes combinar **dos** métodos de array diferentes para obtener el resultado esperado.
+💡Es un ejercicio complejo. Debes combinar **dos** métodos de array diferentes para obtener el resultado esperado.
 
 ### Evaluación
 
