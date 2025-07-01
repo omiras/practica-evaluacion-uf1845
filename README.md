@@ -4,7 +4,7 @@
 
 Disponemos de una base de datos de presonas, representada por objetos donde cada persona es un nombre y su dni
 
-Crea una función buscarNombrePorDNI(dni) que reciba un DNI como argumento, busque la persona correspondiente en el array, y devuelva el nombre si existe. Si no se encuentra ninguna persona con ese DNI, debe devolver un string vacío ("").
+Implementa la función `getPersonByIdCard` que reciba un DNI como argumento, busca la persona correspondiente en el array, y devuelva el nombre si existe. Si no se encuentra ninguna persona con ese DNI, debe devolver un string vacío ("").
 
 
 💡 Pistas
