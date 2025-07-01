@@ -18,10 +18,6 @@ Implementa la función `getPersonByIdCard` que reciba un DNI como argumento, bus
 
 Crea una función `filterProgrammingLanguages(languages, minYears)` que reciba un array de objetos, donde cada objeto representa un lenguaje de programación y los años de experiencia de una candidata en ese lenguaje. La función debe devolver un array con los nombres de los lenguajes en los que la candidata tenga al menos el número de años de experiencia especificado por `minYears`.
 
-- Si ningún lenguaje cumple el requisito, debe devolver un array vacío.
-- Si el array de lenguajes está vacío, debe devolver un array vacío.
-- Si `minYears` es 0, debe devolver todos los lenguajes.
-
 Ejemplo de uso:
 ```js
 const candidate = [
