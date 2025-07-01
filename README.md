@@ -38,9 +38,9 @@ console.log(filterProgrammingLanguages(candidate, 3)); // ["JavaScript", "Java"]
 
 Fíjate en este ejemplo
 
-<img src="https://oscarm.tinytake.com/media/1783650?filename=1751364278277_TinyTake01-07-2025-12-04-35_638869610772624964.png&sub_type=thumbnail_preview&type=attachment&width=799&height=456" title="Powered by TinyTake Screen Capture"/><br><a href="https://www.tinytake.com">Powered by TinyTake Screen Capture</a>
+<img src="https://oscarm.tinytake.com/media/1783650?filename=1751364278277_TinyTake01-07-2025-12-04-35_638869610772624964.png&sub_type=thumbnail_preview&type=attachment&width=799&height=456" title="Powered by TinyTake Screen Capture"/><br>
 
-Luego abre el fichero **ejercicio3.js** y escribe todo lo que puedas decir sobre el trozo de código que observas (usa comentarios). Puedes decir 5 características por fragmento de código
+Luego abre el fichero **ejercicio3.js** y escribe todo lo que puedas decir sobre los dos fragmentos de código (usa comentarios). Puedes decir 5 características por fragmento de código.
 
 ### Evaluación
 
